@@ -1,0 +1,26 @@
+{
+  "name": "Anne Gibson",
+  "age": 24,
+  "address": {
+    "street": "Intah Park",
+    "city": "Mirrevde",
+    "state": "MN",
+    "zip": "33377"
+  },
+  "contact": {
+    "phone": "(715) 575-6497",
+    "servicePhone": "800991514"
+  },
+  "birthday": "2006-11-13T14:37:03.772Z",
+  "ip": "250.57.154.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Uttu til fovge ijfos voteso uzpi am dovompuf va onuamo juh vimike mujoh egu bumemla urouc. Neba hi rerrovusa af etalu ojoobepop paldotmu lobic cum du ijeota feftiw. Fediuh sav dajwofuh nep dut ujke cechi pu fi paka mervu se za titi. Acusol lol co pug ubikoslun susbudmi juwvuca ub lovfuthok gogigobuv sehidwa tacbap.",
+    "bio": "Bahbis simtem itimo jo ji mudzein navdivaje tutofon inakez cajzo tar kifatub zu fumva zepe us horetvaz. Seh kuhni ojonut wil renja demike za lu vow dasecneg dimewmak onwedme ke. Bij vafi vehpaz zuj kifjedra mo kombole toponka fismon coil fujafo mi."
+  },
+  "apiKey": "08abfaf9986ee494f61414c88fdf95206dcf066654257a90361985e0d252342f",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
