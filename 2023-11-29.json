@@ -1,0 +1,26 @@
+{
+  "name": "Francis Marsh",
+  "age": 45,
+  "address": {
+    "street": "Ofavu Lane",
+    "city": "Wiendo",
+    "state": "GA",
+    "zip": "04591"
+  },
+  "contact": {
+    "phone": "(535) 943-8437",
+    "servicePhone": "800623785"
+  },
+  "birthday": "1982-05-22T16:19:02.127Z",
+  "ip": "16.138.0.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Watpuw neom co temibsic em faruf ewe nadedgoz ocusi oduepo ucmid am. Faatve api zazsirna egihas katinjo zid nuwcef efa ufu tomup abamu ufnen. Je zepfiso vu ukahinhe zu tawuddif pipwew utcoaze hemsunpa pok opados hojepar po uji. Bucibe gogselta salrot ferotbej goz legkirrug kicojaf ro nuk jipsiw kempo nafik um oco zim usi.",
+    "bio": "Ewijiha idjumhi eka ti ladunul el ow ocvo uthu tawitu ido he ge dukudi zojajcim kilajuz. Abulobco lar mugbef ezewu zeeto imisuuzu oliiwoduh joc miz kodas mod uja obeedkek ez korcuh. Gifohlig fodedog ig fec cu jiifail temikvu ucha azdous wal le omzagpe lujah."
+  },
+  "apiKey": "6b20a56121860f55bf8ce8cd1784e8a7573bde8902c308a90f39dcbd09608fcc",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
