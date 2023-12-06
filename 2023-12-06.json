@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Sutton",
+  "age": 42,
+  "address": {
+    "street": "Wanmor Mill",
+    "city": "Jafnozira",
+    "state": "IA",
+    "zip": "90077"
+  },
+  "contact": {
+    "phone": "(729) 440-6715",
+    "servicePhone": "800512823"
+  },
+  "birthday": "1971-11-14T01:29:55.382Z",
+  "ip": "189.193.117.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuf nuwe meagu cacuhim miogo mo hod ibacoze voko fu gumon ove fivuvfez jujeh. Hagsaw temec biz abezed ko di wucowjof ade cohco rekegolo umuzu ibo seimijum. Nijhin homasot wiur jehwadir nahugpol uzuvef ola bunute isa zibser etabe balol ezusof ow.",
+    "bio": "Sow cuzva pipfiwij afonahre bih uzuvuk te ijek ru wud ci uhogeh dupov evviza womho vihuradal. Jenasam hudpiaja ara cuvnuf fet ze fase sat zi wen aneuzu fu. Tif bu kiw zoh mooggo ivasoiba cuonufe pe hurewzag wakam vojemador vow ob usi mocmihuv. Sepvur vaz fiw id etdar terdobije bepo duzarcol miku ciso ufeku higwaf difgawu ta nu he udinen sufuul. Huzif fusegewe subrovnu kilofu li pode rug uromlu fef mofu jozmuz jejtilib veme."
+  },
+  "apiKey": "02b01d070ceef64768d351b8abf12191e68cdac3188dd86884e0757f5269d13e",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
