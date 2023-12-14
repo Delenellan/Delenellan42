@@ -1,0 +1,26 @@
+{
+  "name": "Mark Stone",
+  "age": 39,
+  "address": {
+    "street": "Osurus Pass",
+    "city": "Sitgisu",
+    "state": "WA",
+    "zip": "75802"
+  },
+  "contact": {
+    "phone": "(520) 223-4166",
+    "servicePhone": "800735681"
+  },
+  "birthday": "2006-12-08T01:09:03.503Z",
+  "ip": "55.143.79.204",
+  "foo": "bar",
+  "profile": {
+    "about": "La cu wernu pencave owsokup wahej ce cuc od saani patete joldulet biw mus ril. Dedla go pukonri meniol piwif luk ocsicu mewkemope re naumsu ve oc. Husgacize rof iwpec rihele pot fa odeozeku fupzirdi maan vituhe iwo tufijle no. Vannupru rufkar vijduinu lib woze wovu muw asaficbe so adwa rotcovaj no buwautu ko bu wi. Ilaejimo jogmuz fopu samdijor voegzam seawlag baado af sidasij nosmi gek fotojtut oz. Wutagom lilusu aw jowecok hene vovpa sotufika sohpede cepibi pah tivopu fabluz zicahsuf ovefog enudo. Alaku cora olbec sidronve jodnez abu nit vewta al balov alu og mimanafi inawere.",
+    "bio": "Dazvuc gatjiahe voisideh ugugifme am zelib vuj veguzuzi zup mekesmo jomul ba. Ovsetle bubozi ejo ve dovwi duah daho likagakim nesu weomusig giuj fot fibued ekeru upiki re wagu zoori. Zeneg re ot hees nuiz jeni sub dogmi liv raf ecawe ciptemu degzosnul letewevat docepdeh ho joahu vivsoum. Ojijawla nufpag evi vuszuj beapmu hi fa fawlume ki paito voz ikuna. Jus ji vikotem efuodeor ciecu ma ciifmu jacu pe il umoib osruljik dacuvo zu doted. Cam zezrun tuzajeb neetca hisop mo odize fiumuuw wof wa ad goj ec kim tuket fawakumaf neteozi livis. Nul vaagi tijijetan fovek ome dir mocsizvu lo feh ijetu zacaf ce zopge ku oji."
+  },
+  "apiKey": "bfb1dee738555cbfbdd6d0672e4ff5f9c9fc2d90b8a5a541f3c9b29f8bc141a3",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
