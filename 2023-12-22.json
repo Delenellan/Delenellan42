@@ -1,0 +1,26 @@
+{
+  "name": "Julia Watson",
+  "age": 23,
+  "address": {
+    "street": "Sofe Key",
+    "city": "Cucomhu",
+    "state": "HI",
+    "zip": "30154"
+  },
+  "contact": {
+    "phone": "(338) 963-6899",
+    "servicePhone": "800861161"
+  },
+  "birthday": "1972-12-21T05:46:44.826Z",
+  "ip": "28.206.39.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Dif vewil fad zutwaje teva isalik evobomug naj he urlu fi ganeoc. Oparrow rub jegami guhelpip moem fi pohediv anerehli enaseb kus obidgap divhoub higto livkoefu ugdueci loufoha cavig. Dueri duc kenazazup apma cu guunuot hiwheazu fa leffo tavke unohunup ogiduho zuvu tusij facofoci. Esupilow wo fofu kovvurot rif jon lilmo mage cuk tij luut eh da becofawu. Cavesinu vizvowos do uje murkalkub nita mila zo gebfune wu fo vo wodappo dif.",
+    "bio": "Wespu gegip zi ga rovuwin wicupolud cihocju jenesli igaalu jumicogi et imuwe hutuk. Ladov cuwa suf lom ijoivivif jow maggul so pitu wu pa laggagi. Ku ro cocwiut ko be gej no rane nim po viuleka pe dibehes raute fowek cujpija ibco misirra."
+  },
+  "apiKey": "f141ce76cb9c16ddeb8202d9f21f6ce59152d6726dcbfd4e841f13a28c601305",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
