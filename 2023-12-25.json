@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Stevens",
+  "age": 27,
+  "address": {
+    "street": "Ladom View",
+    "city": "Wuwati",
+    "state": "SC",
+    "zip": "31465"
+  },
+  "contact": {
+    "phone": "(612) 994-2981",
+    "servicePhone": "800927253"
+  },
+  "birthday": "1984-04-07T10:58:57.835Z",
+  "ip": "53.213.24.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Gagzad litsa uhumera miuzerun hameigo neglekpu waiv fodhawav soghu veera kihtic kecsab lumovdaw pesahbej mafogacud ji eb lejunbun. Luhca ciizcak di al kedozi viojova sedozi liceveg cidoweni nu girduih zamabom lum sancak atopeahu munu powjif. Da iwalip mobu vakiteh romaihi dewzeud olges vugeru bel rosnal ec tobojob bocjiegi uhe ik. Oc ivuwdof ejce tan egufe bofudu uggigoge wetbi nopak behil mu oriodo ewzarno tijwebop ugiod. Bo towu suv huw guc gafoja awderah bozugo vakcum la doh cadsizin ki zanpob. Ruewokuz jo geklat culogeru tinta fel lupu cikfimko me zine ic wafhi dupkaj uf tifa sir.",
+    "bio": "Gowfube we live cakjahmek giralwaj sihi ocku bin pubot orimitsew muv hoked walencic coke ucne. Ifego dun odaruf sanij zazu lek iti wavpajtos udasgo teolo idjure pujkohru imamijij zauwolid lususo utoub ha. Ohu jema utujiaf vu iwriz adceh ofi kahu pubworid ma ji pordo soblugmef em."
+  },
+  "apiKey": "caa37170eebe0e5c134fa5d488e6fb302e5c7e89f3ed92ad3aafd3a838f2d18f",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
