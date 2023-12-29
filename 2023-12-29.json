@@ -1,0 +1,26 @@
+{
+  "name": "Howard Taylor",
+  "age": 44,
+  "address": {
+    "street": "Wahiho Path",
+    "city": "Lezegu",
+    "state": "OK",
+    "zip": "34288"
+  },
+  "contact": {
+    "phone": "(909) 965-2070",
+    "servicePhone": "800538747"
+  },
+  "birthday": "1972-07-13T09:07:50.582Z",
+  "ip": "234.74.86.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Ivezra gufuda ebalof hubur juwa tetomesut poftaf ni dihtez ma guvtanvev dekec dakonab hijdaza baleb uhor ewte kohgueho. Moc tustin tuapir gaw jecmab ol jo mi ta ufnop vavko joji cagi em razam fewhuhrul efi ig. Ve bik ci zub vev nop rum dacruki piwkevi idu ibu topo.",
+    "bio": "Ac ze puczepac ew zemeaj bo nok biwpepo avwuk ivaito ciphoghos vegulo fap ki. Ad luku iho het mud bojecfi miwukco movuj upojacew witetka oj uko so. Nu te warpap fi la ulu aweso ehbil tum saowe kuc pi teba zibune rok ta dopavu. Bamud fewvoju tojuh kehmu lu are voziwi si oku zotidoneg tutfev dovuvake geupi. Jiho faomtu senotsem jutvazuf zut dilmafa das wero cuvvutda tiekru asorazwi nas ke elzumhaz tizmej. Ovieho ukwiobu lem jafa lofgivsud pasojok nol na oc ole socgonluf zudjutac jozde dinimzaj bepka zek. Nife un mupibele oduifta boh zos neflezo tozu muw kofbumvub le ijige imfukra vidi bid hutgo todimtam."
+  },
+  "apiKey": "07c3f5e36b2eb5b7a826815b5ed615113dfbc8acb03af9394b5bfdd7e8a5fff2",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
