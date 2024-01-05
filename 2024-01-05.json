@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Pope",
+  "age": 23,
+  "address": {
+    "street": "Cekeje Pass",
+    "city": "Vehizo",
+    "state": "UT",
+    "zip": "46139"
+  },
+  "contact": {
+    "phone": "(450) 991-3585",
+    "servicePhone": "800966977"
+  },
+  "birthday": "1997-12-27T02:24:30.070Z",
+  "ip": "50.198.152.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Egluw zicuse bi facu huomjij jif sawab natdejug gow duvubo saoho ope om zuwuc. Vegtiju olalumuf alnesit na ita lavfoju buk ag de odheih vi vangowkur oj fu ah aga ri. Wooho navejoke obuvuf gos suminuop daod vafafu siw hejco ra luh zacsaw cople ko. Ludij refiku ro ufi po mew duuf jefom fuh few nisguz mup paragle nazafe vis aj siaku rebvo. Malobip vit ca kol un hunok ej uv ugu aciuni kefer ofapap sad.",
+    "bio": "Kil beefowap lugfah abuhoof piwtev milhohu wopah sam ugduvru izabeli fikuve olu zalig tobah ah nen fej. Cicwu poduza zi lahjosi lu ned sokawlot iwoki waw towiku furozir pag wi zucem. Mic pu igedif ilpupsaz dejto nipetwec sullan vofraseh sejic pisrerma balvis vibeba feruger wosatij lehlu ohisiktoz. Rok guasagah fejlupo ejzag hezossis miroj boez tebu largeeka routoji tivil zicdutun tinew. Umuw wibrew menog webugoc lo ekohonef jilaw povej betob litep itzo gok kowudsuz."
+  },
+  "apiKey": "80f3591532a5caf08a88371f0f8676d6f388b222d46e98e44aafd7e00264ec97",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
