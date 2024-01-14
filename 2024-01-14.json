@@ -1,0 +1,26 @@
+{
+  "name": "Jay Schultz",
+  "age": 41,
+  "address": {
+    "street": "Vethu Key",
+    "city": "Jaselzos",
+    "state": "VT",
+    "zip": "59617"
+  },
+  "contact": {
+    "phone": "(422) 685-9120",
+    "servicePhone": "800952544"
+  },
+  "birthday": "1989-07-04T17:29:31.758Z",
+  "ip": "185.1.230.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozaroc nohi nidli re ti gajejoz av fosobike gelpav zaz saap ba zo pa wuc te mibobsoh uhvavep. Gipar udli rij wuz punaw vuiwo cesil humuzla ipabok jal selamohiz alihaja mohulju hiabovib le omet winuz eloni. Wiwemu uwo rohfi atew ciopeoza rajido papikocof tam rujgak kipsikron agoko olaawu abhuzabu zinuma.",
+    "bio": "Wakec wozaw lejlo tu neledca nuci dirpa gohib jul ja cot buopedig mij lotre tepwumac ra. Kiuw sala wo weh kosu toncud simoj bihic rakhob iwbik jih zigep zojco te vuv etgu rehutap reeb. Be pitavo voacjo vuitra azfaruf ruzofsi zanorbe rel kogirev lezitan obbudbog miladud vages romsiic dirzig figurdek nanewuj vikaf."
+  },
+  "apiKey": "25a170b9eb735352709b553912f4de2c8b4f7405857ba4acbe15b84750eab952",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
