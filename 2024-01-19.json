@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Riley",
+  "age": 46,
+  "address": {
+    "street": "Adsof Mill",
+    "city": "Siavima",
+    "state": "MS",
+    "zip": "12321"
+  },
+  "contact": {
+    "phone": "(962) 274-7305",
+    "servicePhone": "800954375"
+  },
+  "birthday": "2002-03-20T11:30:55.159Z",
+  "ip": "6.245.111.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Pobbel voaz heoralo po fo itme kegze don pirabec ociba adiaso lawimom veoliv wuse loire. Esohdug hek ocebimnid nom pek za oj afe jeote epeob enauh wevbome og fabnaaco nuzati zimrewla luz. Ohoti los bifber gablazodu okufarem sahboh vezec edukicsi me owmean fipboj iw. Wuk luvemna safda vuwsi ri iruetuj cavalu mugicu pe lihwerem ti ehi tuuko ijoivkik huakeiti we fuufok bine. Rigwuslu tezfed lec waf voefiil eblimor eg ag du pokehcuc wepjaj vop wu tale birlan ofi.",
+    "bio": "Hogalam mirotco ruvingac fezosni demi tut tigebe dew rehvodaw luofu wot dokwuef. Cuhlivar un ni bef igjatoma el ul doudi jirime poducla ho miwun ziuduja tarwo. Ezvu ozu cu tod navdojro hipmoni zoz inalagoku hunpu vudor tebwi ri muj vuavoolu cusibuco zipniv. Zuz fewofu wahul sa ligova epu murpizot riime conda luslob rigvi hezo ji iloboopa won. Wa giurutew guku uwelojo fukapin liab re jozcogan ril jetibsuk fujmuza atoukahas ram ildicku ra hummaru."
+  },
+  "apiKey": "a8e38d2b8971ea0ddd50e4f6bce33b8458d3905b6294bca6eef1cc6eb2c3c677",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
