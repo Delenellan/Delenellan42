@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Silva",
+  "age": 45,
+  "address": {
+    "street": "Nijol Avenue",
+    "city": "Orhiegi",
+    "state": "OH",
+    "zip": "84226"
+  },
+  "contact": {
+    "phone": "(453) 566-4541",
+    "servicePhone": "800886451"
+  },
+  "birthday": "1966-05-18T13:06:46.889Z",
+  "ip": "73.251.142.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Vit gizgo mitvuf ti porkafca laz nu zapazeg vog be neksa cu afezi je adwufus wosok. Lu be wipohvu if argazih ces hidiwun ju usu upaozieb bes siza ece duka cu. Ilcolfi cu af kowuuli tiwwivze bupbaruc wad niipvi vattojciw ne josi mazuhcop ri uhuviit.",
+    "bio": "Namta wuhej livjigum ejda taczo fu izvuh hewev fa bijdun miapude nuk bupferbi coizewel pe welne. Esigit vo fioc navim go gigif bowofa cienmad ejesavsa alo zapima fe teat com dak. Acu beje dos ritgamdo loc cokkasdic gupas de sisibusu zos zefzec po fowlatwom. Kuf geg sap wimempi si datecur go secu hekune migugi lisrohhu hinawu wedse. Or luvfin farisi cap dis uhka hecik dokbuga sazunabu heso hifezib unure ilbat ujjunho ko hindu oruvocado."
+  },
+  "apiKey": "dc041bf638eb1fe1ce8b350fe302444c94adbf8ea6f676f78b66b6fbacff3d8b",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
