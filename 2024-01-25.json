@@ -1,0 +1,26 @@
+{
+  "name": "Matilda Henderson",
+  "age": 40,
+  "address": {
+    "street": "Fomdog Square",
+    "city": "Irmodir",
+    "state": "KY",
+    "zip": "65498"
+  },
+  "contact": {
+    "phone": "(469) 565-7460",
+    "servicePhone": "800464582"
+  },
+  "birthday": "1983-12-08T18:52:29.280Z",
+  "ip": "115.82.104.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Cir resav zag duh si venmep kibsip peaj lehalbo voh uzelatav mager nicwori va. Oj ta fufedwe witwulba dut an tenawru natup zikerri rof cahigu ubizi vil setu uvoevo. Jucitto kiw bof ohudejil larifaf aw ka temlanov ko tu sikecu bobcib.",
+    "bio": "Awozeca nef giaji silpevpa co ki te bak nagmeari ov ci ez soofave uckan waha. Gohobin juuc injip pi povse bajamun jaz ma ki lep hej gezbifa cinude zok fu delauha. Iloat gagum fi ukameoju fijuz rot tehubi oviicnin kahi juok cavuzoewu sifazul upmu in. Orica lipfoz agwista unve ipbe pubuho fuw liij fezu da kihnufdov kiretra jel punohe do. Sa monjuha utamowop jo pus jegro liwame bopjosbu gabfefse laozo wioco rintac oheejba pi vihmu vahsegme."
+  },
+  "apiKey": "50a2950a64255ec44485fc4c6594d5bdb03a37d0011298a911a8e1999833c70a",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
