@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Reeves",
+  "age": 41,
+  "address": {
+    "street": "Ficgit Loop",
+    "city": "Kakuum",
+    "state": "ME",
+    "zip": "24492"
+  },
+  "contact": {
+    "phone": "(758) 588-4937",
+    "servicePhone": "800294144"
+  },
+  "birthday": "1974-11-07T02:24:56.079Z",
+  "ip": "175.251.92.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Nafemuup jedipibu dulkun memizukew veg upauseih dih ubi de wa ilauwiho gazad. Sal jaz mucdid pitot aknag muljotvu ciwgobak ite guvjone puz al benkar. Bamve digeppim ceve ju utashoj be vobewbe re pehzes he bi tin.",
+    "bio": "Rezodfot pilposho tonabsuk cizu lamo mosgugkis vu nurek iru hultoebu te ar vo sukzap ekgirih falreb izcesiz. Buet homunu rorpave cuhvepot guiw roj zirpuv tohecki gacukara udsigkat resazdaj ogetur cu jac fesmehrig sa be reru. Upu verulli batmij latfafi zan buvesa bac locu cizoder uturi lede unzubowi mugabu aktoeka so can fazuceb iz."
+  },
+  "apiKey": "e258b0682bc80c4764b45423b491ee84737aaad3a8893a8c91eef74dafe9e66e",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
