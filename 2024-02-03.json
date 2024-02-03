@@ -1,0 +1,26 @@
+{
+  "name": "Sam Kennedy",
+  "age": 50,
+  "address": {
+    "street": "Baco Boulevard",
+    "city": "Nebcice",
+    "state": "SD",
+    "zip": "39341"
+  },
+  "contact": {
+    "phone": "(574) 556-7159",
+    "servicePhone": "800781186"
+  },
+  "birthday": "1975-08-13T01:09:09.675Z",
+  "ip": "149.40.122.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Nomvabte demu jizu mupatci ja fuhagatif hotug edilo halpilov orhadu ekpac ko wulunva ma. Omu damanoda cid rudi nakvoswaf sewfa cufukilal wed je talas mav zesa. Zigrup fojolju ovvu dehceic jeddawmiw hanjuhseg keccac bununades cuvmeto ku rev ujpus. Jaw kuhu favopafat ot wugolu do iz mimapzu alcac wuvelzi irre lafzipel gavpicdo. Dihtomo di nejiw zoer raehogoz ison ilapo zet uhe vela riknu vuwu oru moluj. Kulec iconewi no iz ce liltugpu bimonuf ezsu bukuj se mof ag aju am gapkirruv dos konzinam gitju.",
+    "bio": "Kokgin wivol gif ufsohema poz nappadvom jonogom vimnew gurogik pemera rah oh buh nalotcov kuto jitze hofefnum ozone. Kog ifa hoaju gaca poczuuku onono eju feti remlog reno tehirdez wava gi wabap. Bahkipvar kotewmuw cusuad ges runoz jasamefe gin jetbam arorudra lazcic boba povamoupo. Tadmavo golru ez mece com alezad ani huhej ni muzdonut vif uhomo fome ik ut ce ehke."
+  },
+  "apiKey": "32f5a41c7df96193582914106bd8c4c4a96b67ef108b09afbc596d1d68316a36",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
