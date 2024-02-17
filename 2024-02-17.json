@@ -1,0 +1,26 @@
+{
+  "name": "Estelle Duncan",
+  "age": 40,
+  "address": {
+    "street": "Koha Junction",
+    "city": "Denogat",
+    "state": "AZ",
+    "zip": "67669"
+  },
+  "contact": {
+    "phone": "(247) 786-6041",
+    "servicePhone": "800468796"
+  },
+  "birthday": "1974-07-25T04:52:39.459Z",
+  "ip": "93.117.134.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Kozjaon ne jap molen gap pu vormado febafopeh du bad us tonakuco pivi. Tutit wu ojealuwu vajfe hedu hijmiat inizo seni lifcupuj muzuz latuw efe. Sabtig avduglu va gu sukni geakitu opiit iplekvod tiboku zufodet sapul na to jawuvjiz bolha. Cevzen emiju hugivatuj vonzun iwabivfob pi va keiw kaidjew rolage gos urizo veha.",
+    "bio": "Hol ic tessarpo buhi ma dalit nabbiwal melzo degu rilni gahevon atuhaba mese. Faoti nehazis ce avelev zu kizsim jeb zi lekpiowu jobav fi hojahup batohkof kuv tu ewoheno buwut onwi. Joramma nudowop ruwav ditil wiretzem muw moaj me pu ikipa cegafus cu orabni ivaroodi bufzof geosoik."
+  },
+  "apiKey": "d90dcfe661ed6464b5fb6af5af03a08c933274409250636585863f5da462a02f",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
