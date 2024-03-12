@@ -1,0 +1,26 @@
+{
+  "name": "Bernard McGee",
+  "age": 25,
+  "address": {
+    "street": "Cotnog Park",
+    "city": "Cacarbu",
+    "state": "CO",
+    "zip": "18037"
+  },
+  "contact": {
+    "phone": "(617) 859-2959",
+    "servicePhone": "800494789"
+  },
+  "birthday": "1995-08-11T21:53:37.463Z",
+  "ip": "175.129.221.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Vifnuweh giccog voz fa ra fadub zodveb how pistuv ud duzu ce ajwig milzadapa fis weapoowu vokipo awvo. Ami ikamepwo jelotbi ru serma lowlawwo loifa rehecom gelek nigdowe te luke seice gu ro. Zuc vo ce jof cume uwudo ed fawa dic vikfe vel tid telujo af abmupfu vesah tucu ci.",
+    "bio": "Razapmup waupopi ufokopek fewla inonegun akeba wuvuh fiwkejheg be ge uw wuwahce cot kifetfel uraabi voucli zek obo. Ahdohah epebito kug mijo luvhe ecuwo cul atheol mic meboel cuz rarvaelo zuwpen jilgi li vuilfo gir. Bo oso nezdodbuv mim ij tufevri zov ju lu acjo viubme nilfepip. Ponafuh deboeva pazhagez edce jum wuijofuh wetehuzi dauh utoje odopoec tew mo fu kowvu ukiwo ne. Fuanabam lanolzu vef upibgiw hezirsu bucjuhtem un ihu welhiscud zi haig tapattov pu gi lomle. Siv iseso tuv uw renikik piumeb tusgef loig buur fowetav gof didogbu duj diuvgar jozil nadisiz."
+  },
+  "apiKey": "c51aac5b0a50ef1d3846a3570f32523e693a5cd0980c6c8b8a57aed3807e7a9c",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
