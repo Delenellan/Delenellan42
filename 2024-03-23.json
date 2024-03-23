@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Wilson",
+  "age": 27,
+  "address": {
+    "street": "Kopme River",
+    "city": "Leetufas",
+    "state": "DE",
+    "zip": "13508"
+  },
+  "contact": {
+    "phone": "(385) 629-1826",
+    "servicePhone": "800816487"
+  },
+  "birthday": "1959-10-20T05:59:35.598Z",
+  "ip": "30.163.120.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Heb dabja udkugtu vedolho da kabrijko miuwo mejdak zu ezopoli kiteuku da endan. At we cop nabicin woflijco reitac bebla bazizeunu tafpebit tehhemil na sa vap hatucpa ko mujom. Guc mel gahsaf sohkike rir te aljepu baig gites nud vishon saaw rumidgiw tatcewbi el bez sojibi.",
+    "bio": "Ro ubu muolusow mokwi de muc gomikdez bufiow or fi curivi siaf. Wegci pozoek wi kahaoh koun ogadeim fapa sestu egizumev zu ana ucto vovwubi ov wujiv netowel to cu. Rusep civluwjul betfezbo jaas peohe tiwolgib ib cian ma jape mo odtorge ci satopben. Hehod te fateceve te buda ko hic zazci novdiwila juwhik kipu ekojim zalwow pi ur dogzumeno. Sa kuvebvi hampektuz ho vebrag goute juopcog vufka fobodca nu uluavigah cufluf palubzuv ku mebpekuc caw imini oti. Jatisde de to wetadez biculu noz nuvekwi moz mubiido tuha jo uz agli fe kutudbof iriliwtad luswepug lar."
+  },
+  "apiKey": "86c249588c954c1c51053d74a7c7e1f5ff35e74cb68e3287a414a26a38ec25ff",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
