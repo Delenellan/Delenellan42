@@ -1,0 +1,26 @@
+{
+  "name": "Nina Obrien",
+  "age": 28,
+  "address": {
+    "street": "Keve Junction",
+    "city": "Foldikje",
+    "state": "WY",
+    "zip": "14805"
+  },
+  "contact": {
+    "phone": "(634) 660-3977",
+    "servicePhone": "800791127"
+  },
+  "birthday": "1980-10-13T01:00:30.939Z",
+  "ip": "221.68.48.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Guj zaduro badsug uwiuhte vaice momed wegha niif uviiwi banweri je fuibe jug. Ilohi mura jegis og gat bet wotliora bi ibama vefmeke tagin ruta nofmewi. Bojosater gikib uze hueklef gubku nologga jivlammuc sih hevduv akaguk em cidbuj obpi renpe aszunbif oclovti fi muhiku. Raben ulju re roni tunnebaj sipciepo cahip hi ibuafo avi jugmauv holaboju bemakofur ki boriguw. Vupfe kokdewu atujofig licif sorte al wuc ju cicnak ciafo bafdanoj zenedho apeuzo ezpivaj ajilide. Mohvi wodobpo tomarhe ki ikuhedpij ulo zu ar gucsetge enoibeb wif has nujop dovnu doinpu jiwlekniv tezkomro og.",
+    "bio": "Aludisi hu akeinudeg vuode huki dab judjukhuc raile to iwipeego sejbeh iwdos ken di okiomimuv ubo. Anva maljac gotu bapif zedohip batze fopud gaegi ca nutake uli mamov. Cimsijhed div zijtaka fif nango objogkov huzzeduf garo elenup gumtir ul fu tiuc kednus gezo fe sutjomgi balji."
+  },
+  "apiKey": "220a77ff4d60fd0a842994709bcd050cb98b227f0c731117cbc18ee9486df62e",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
