@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Ryan",
+  "age": 22,
+  "address": {
+    "street": "Tuswu Boulevard",
+    "city": "Zumitih",
+    "state": "MA",
+    "zip": "69833"
+  },
+  "contact": {
+    "phone": "(605) 244-5930",
+    "servicePhone": "800452481"
+  },
+  "birthday": "2000-03-24T08:09:40.205Z",
+  "ip": "145.252.25.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Di ajmis mup ihu levlav olejos ro obuutu fuh ekoror jotednus ratat hatetul sic bad ohi. Rinkuboc daguntad ha pehu wapiz enebin kaejiki gekbob ace tuvko democ cutag co sac lose jesutij. Co fapome pumuz zervot ne haw jecoroda er tiuz poruf kolik caglobras bom.",
+    "bio": "Ipoiwako bakku li rohur wuzcu vohvowu laduocu puros uzbimu jolerruw avca afelevma reciz hijuzid. Jibkuv low vidgaupi huagi luzezav zuter odjirfa obapuzwod vajpiv le efi pebokobi rab rohabjul. Hetciduc oke mefisbos fupfirem pifasvu ne seduski eki lovi wigak umekola pac fozero."
+  },
+  "apiKey": "2cb0b815c2de49820f3b7fd83964b3e0c53f5d626bc6a5df0cca514bb4adb54a",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
